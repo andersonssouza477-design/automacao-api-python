@@ -1,0 +1,24 @@
+--- 📊 RELATÓRIO DE TENDÊNCIAS (MÉDIA MÓVEL) ---
+Gerado em: 03/06/2026 21:34:45
+
+📌 Ativo: PETR4.SA
+   Preço Atual: R$ 41.25
+   Média dos Últimos 5 Dias: R$ 41.52
+   Análise: 🟢 O preço atual está ABAIXO da média da semana (Oportunidade?).
+---------------------------------------------
+📌 Ativo: VALE3.SA
+   Preço Atual: R$ 81.79
+   Média dos Últimos 5 Dias: R$ 83.05
+   Análise: 🟢 O preço atual está ABAIXO da média da semana (Oportunidade?).
+---------------------------------------------
+📌 Ativo: ITUB4.SA
+   Preço Atual: R$ 38.72
+   Média dos Últimos 5 Dias: R$ 39.53
+   Análise: 🟢 O preço atual está ABAIXO da média da semana (Oportunidade?).
+---------------------------------------------
+📌 Ativo: ABEV3.SA
+   Preço Atual: R$ 16.07
+   Média dos Últimos 5 Dias: R$ 16.31
+   Análise: 🟢 O preço atual está ABAIXO da média da semana (Oportunidade?).
+---------------------------------------------
+--- Monitoramento Concluído com Sucesso ---
